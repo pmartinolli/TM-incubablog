@@ -4,6 +4,8 @@ Blog incubator : 12-weeks program to start a blog on research topic
 
 [Programme en français, PDF](https://github.com/pmartinolli/TM-incubablog/blob/master/files/TM-incubablog-v2.2.fr.pdf)
 
+## Métadonnées
+
 * Author / Auteur : Pascal Martinolli
 
 * Created / Créé le : 2016
@@ -20,5 +22,6 @@ Blog incubator : 12-weeks program to start a blog on research topic
 
 
 
-
+\
+\
 https://github.com/pmartinolli/TM-incubablog
