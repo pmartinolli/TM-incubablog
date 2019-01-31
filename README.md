@@ -5,6 +5,7 @@
 
 # Blog incubator : 12-weeks program to start a blog on research topic
 
+Utilise le principe de la [« quête secondaire »](https://github.com/pmartinolli/TM-Wikipedibus/blob/master/README.md#qu%C3%AAte-secondaire) pour faire travailler une minorité surmotivée en dehors des ateliers de formation.
 
 ## Métadonnées
 
