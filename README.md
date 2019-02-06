@@ -81,6 +81,24 @@ Bloguer sa recherche est une « activité cadre » qui regroupe et fait travaill
 
 Cette activité peut être proposée selon le principe de la [« quête secondaire »](https://github.com/pmartinolli/TM-Wikipedibus/blob/master/README.md#qu%C3%AAte-secondaire) pour faire travailler une minorité d'étudiants surmotivés en dehors des ateliers de formation et avec le parrainage ou le conseil de votre bibliothécaire disciplinaire.
 
+## Plateformes suggérées
+
+### Avec comité éditorial
+
+Soumettre une demande d'ouverture de blogue à un comité éditorial. Délai de quelques semaines. Être chercheur (cycles supérieurs ou professeurs).
+
+- [Hypothèses](https://hypotheses.org/) : OpenEdition (France), moissonné par OpenEdition et Base-Search.
+
+- [OpenUM](https://openum.ca/) : Université de Montréal.
+
+### Sans éditeur
+
+Toute demande est acceptée. Ouverture immédiate du blogue. 
+
+- [Wordpress](https://wordpress.com/) : WordPress Foundation.
+
+- [Blogger](https://www.blogger.com/) : Google/Alphabet (États-Unis). Attention aux droits d'auteur possiblement cédés à la plateforme.
+
 ## Blogographie
 
 Carrigan, M. (2013) [40 reasons why you should blog about your research](http://sociologicalimagination.org/archives/13910)
@@ -106,7 +124,7 @@ Might, M. (s.d.). [6 blog tips for busy academics](http://matt.might.net/article
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
 
-
+\
 \
 \
 https://github.com/pmartinolli/TM-incubablog
