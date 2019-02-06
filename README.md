@@ -69,6 +69,20 @@ Utilise le principe de la [« quête secondaire »](https://github.com/pmartinol
     - De méthodes de travail ou de procédures (réinstallation d'un programme complexe par exemple).
 
 
+### Une belle analogie
+
+> « (...) Bloguer n'a pas de valeur académique et ne remplacera pas vos publications (...) 
+> Bloguer fonctionne aujourd'hui pour le monde académique un peu de la même manière que la poésie fonctionnait pour Chaucer ou Spenser. C'est à dire que vous ne pouvez pas en vivre mais ça vous aidera à trouver des postes. La poésie de Chaucer lui servait monétairement et politiquement en lui façonnant une réputation à la cour alors qu'il cherchait différentes charges (...)
+> Si vous êtes un blogueur académique, ce sera pareil pour vous. Vous écrivez pour votre satisfaction personnelle, pour vous exprimer et pour la pure joie de produire quelque chose. La publicité que cela vous fera pourra aussi vous aider dans votre carrière (...) » (Marino, 2013)
+
+
+## Blogographie
+
+Carrigan, M. (2013) [40 reasons why you should blog about your research](http://sociologicalimagination.org/archives/13910)
+
+Marino, J. J. (2013). [Blogging Like Chaucer](http://dagblog.com/media/blogging-chaucer-16772).
+
+Might, M. (s.d.). [6 blog tips for busy academics](http://matt.might.net/articles/how-to-blog-as-an-academic/).
 
 ## Métadonnées
 
