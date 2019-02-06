@@ -44,8 +44,10 @@ Blog incubator : 12-weeks program to start a blog on research topic
    
    - Expliquer ce que vous faîtes à vos proches (familles, amis)
 
-   - Confronter votre recherce
+   - Confronter votre recherche
    
+      - Monter votre niveau d'exigence
+      
       - Participer au débat public
       
       - Inviter aux commentaires, aux retours, aux critiques
