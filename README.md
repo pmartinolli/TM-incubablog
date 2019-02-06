@@ -121,6 +121,8 @@ Might, M. (s.d.). [6 blog tips for busy academics](http://matt.might.net/article
 
 * Used by / Utilisé par  : Séminaire PLU6058, webinaire Bloguer sa recherche, atelier de partage de pratique
 
+* Promoted through / Diffusé via : GitHub, [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca), FBpro
+
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
 
