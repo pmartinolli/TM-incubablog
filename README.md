@@ -9,9 +9,7 @@ Blog incubator : 12-weeks program to start a blog on research topic
 - S'entraîner à rédiger
 
    - Synthétiser et communiquer clairement
-   
-   - Vulgariser
-   
+ 
    - Vaincre la procrastination (avec une démarche d'écriture régulière et informelle)
    
    - Structurer sa pensée, encourager la créativité
@@ -23,9 +21,11 @@ Blog incubator : 12-weeks program to start a blog on research topic
 - Avoir un impact
 
    - Diffuser sa recherche plus rapidement
-   
+
    - Augmenter son audience et ses citations potentielles
-   
+
+   - Vulgariser pour un public non-universitaire
+
    - Promouvoir votre unité de recherche (département, laboratoire, chaire, etc.)
  
 - Se construire une réputation d'expert
