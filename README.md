@@ -4,7 +4,7 @@ Blog incubator : 12-weeks program to start a blog on research topic
 
 [Programme en français, PDF](https://github.com/pmartinolli/TM-incubablog/blob/master/files/TM-incubablog-v2.2.fr.pdf)
 
-## Pourquoi bloguer sa recherche ?
+## Pourquoi bloguer sur sa recherche ?
 
 - S'entraîner à rédiger
 
@@ -77,9 +77,9 @@ Blog incubator : 12-weeks program to start a blog on research topic
 
 ### Activité formative sur les compétences informationnelles
 
-Bloguer sa recherche est une « activité cadre » qui regroupe et fait travailler beaucoup de compétences informationnelles : droit d'auteur, processus de publication, structuration de l'information, etc. 
+Bloguer sur sa recherche est une activité-cadre qui regroupe et fait travailler beaucoup de compétences informationnelles : droit d'auteur, processus de publication, confidentialité, structuration de l'information, etc. 
 
-Cette activité peut être proposée selon le principe de la [« quête secondaire »](https://github.com/pmartinolli/TM-Wikipedibus/blob/master/README.md#qu%C3%AAte-secondaire) pour faire travailler une minorité d'étudiants surmotivés en dehors des ateliers de formation et avec le parrainage ou le conseil de votre bibliothécaire disciplinaire.
+Cette activité peut être proposée selon le principe de la [« quête secondaire »](https://github.com/pmartinolli/TM-Wikipedibus/blob/master/README.md#qu%C3%AAte-secondaire) pour faire travailler une minorité d'étudiants surmotivés en dehors de leur cursus, avec le parrainage ou le conseil de leur bibliothécaire disciplinaire.
 
 ## Plateformes suggérées
 
