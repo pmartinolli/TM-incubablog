@@ -18,7 +18,7 @@ Utilise le principe de la [« quête secondaire »](https://github.com/pmartinol
 
 * License / Licence : CC-BY
 
-* Used by / Utilisé par  : Séminaire PLU6058, webinaire Bloguer sa recherche
+* Used by / Utilisé par  : Séminaire PLU6058, webinaire Bloguer sa recherche, atelier de partage de pratique
 
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
