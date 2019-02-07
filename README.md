@@ -77,7 +77,7 @@ Blog incubator : 12-weeks program to start a blog on research topic
 
 ### Webinaire enregistré en 2017
 
-[Cliquer ici](http://univofmontreal.adobeconnect.com/px8dqvu21hhx/) (via *Adobe Connect UdeM*)
+[Cliquer ici](http://univofmontreal.adobeconnect.com/px8dqvu21hhx/) (besoin d'installer le lecteur gratuit d'*Adobe Connect*)
 
 ### Activité formative sur les compétences informationnelles
 
