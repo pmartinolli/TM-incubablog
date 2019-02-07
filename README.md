@@ -75,7 +75,7 @@ Blog incubator : 12-weeks program to start a blog on research topic
 > Bloguer fonctionne aujourd'hui pour le monde académique un peu de la même manière que la poésie fonctionnait pour Chaucer ou Spenser. C'est à dire que vous ne pouvez pas en vivre mais ça vous aidera à trouver des postes. La poésie de Chaucer lui servait monétairement et politiquement en lui façonnant une réputation à la cour alors qu'il cherchait différentes charges (...)
 > Si vous êtes un blogueur académique, ce sera pareil pour vous. Vous écrivez pour votre satisfaction personnelle, pour vous exprimer et pour la pure joie de produire quelque chose. La publicité que cela vous fera pourra aussi vous aider dans votre carrière (...) » (Marino, 2013)
 
-### Webinaire enregistré en 2017
+### Webinaire enregistré en 2018
 
 [Cliquer ici](http://univofmontreal.adobeconnect.com/px8dqvu21hhx/) (besoin d'installer le lecteur gratuit d'*Adobe Connect*)
 
