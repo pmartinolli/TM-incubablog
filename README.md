@@ -99,7 +99,7 @@ Soumettre une demande d'ouverture de blogue à un comité éditorial. Délai de 
 
 Toute demande est acceptée. Ouverture immédiate du blogue. 
 
-- [Wordpress](https://wordpress.com/) : WordPress Foundation.
+- [Wordpress](https://wordpress.com/) : WordPress Foundation (États-Unis).
 
 - [Blogger](https://www.blogger.com/) : Google/Alphabet (États-Unis). Attention aux droits d'auteur possiblement cédés à la plateforme.
 
