@@ -1,6 +1,6 @@
 # Programme de 12 semaines pour démarrer un blogue sur un sujet de recherche
 
-Blog incubator : 12-weeks program to start a blog on research topic
+Blog Incubator : a 12-weeks program to start blogging on your research
 
 [Programme en français, PDF](https://github.com/pmartinolli/TM-incubablog/blob/master/files/TM-incubablog-v2.2.fr.pdf)
 
@@ -103,13 +103,15 @@ Toute demande est acceptée. Ouverture immédiate du blogue.
 
 - [Blogger](https://www.blogger.com/) : Google/Alphabet (États-Unis). Attention aux droits d'auteur possiblement cédés à la plateforme.
 
-## Blogographie
+## Bibliographie et blogographie
 
 Carrigan, M. (2013) [40 reasons why you should blog about your research](http://sociologicalimagination.org/archives/13910)
 
-Marino, J. J. (2013). [Blogging Like Chaucer](http://dagblog.com/media/blogging-chaucer-16772).
+Faury, M. (2019). [Partager son sujet et son expérience de recherche dans un carnet de thèse : des doctorant.es entre recherche de légitimité et recherche de sens](http://journals.openedition.org/belphegor/1779). *Belphégor. Littérature populaire et culture médiatique*, (17, 1).
 
-Might, M. (s.d.). [6 blog tips for busy academics](http://matt.might.net/articles/how-to-blog-as-an-academic/).
+Marino, J. J. (2013). [Blogging Like Chaucer](http://dagblog.com/media/blogging-chaucer-16772). *DagBlog*.
+
+Might, M. (2012). [6 blog tips for busy academics](http://matt.might.net/articles/how-to-blog-as-an-academic/). *matt.might.net*.
 
 ## Métadonnées
 
