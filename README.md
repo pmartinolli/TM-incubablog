@@ -4,6 +4,8 @@ Blog Incubator : a 12-weeks program to start blogging on your research
 
 [Programme en français, PDF](https://github.com/pmartinolli/TM-incubablog/blob/master/files/TM-incubablog-v2.2.fr.pdf)
 
+Incubablog est une activité auto-dirigée et fortement structurée selon le principe de la « [quête secondaire](https://jdr.hypotheses.org/1052) » dans un programme de formation plus large.
+
 ## Pourquoi bloguer sur sa recherche ?
 
 - S'entraîner à rédiger
