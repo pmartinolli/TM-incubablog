@@ -85,7 +85,7 @@ Incubablog est une activité auto-dirigée et fortement structurée selon le pri
 
 Bloguer sur sa recherche est une activité-cadre qui regroupe et fait travailler beaucoup de compétences informationnelles : droit d'auteur, processus de publication, confidentialité, structuration de l'information, etc. 
 
-Cette activité peut être proposée selon le principe de la [« quête secondaire »](https://github.com/pmartinolli/TM-Wikipedibus/blob/master/README.md#qu%C3%AAte-secondaire) pour faire travailler une minorité d'étudiants surmotivés en dehors de leur cursus, avec le parrainage ou le conseil de leur bibliothécaire disciplinaire.
+Cette activité peut être proposée selon le principe de la [« quête secondaire »](https://github.com/pmartinolli/TM-Wikipedibus/blob/master/README.md#qu%C3%AAte-secondaire) pour faire travailler une minorité d'étudiants surmotivés en dehors de leur cursus ou dans le cadre d'un programme (mais hors évaluation), avec le parrainage ou le conseil de leur bibliothécaire disciplinaire.
 
 ## Plateformes suggérées
 
@@ -129,7 +129,7 @@ Might, M. (2012). [6 blog tips for busy academics](http://matt.might.net/article
 
 * Used by / Utilisé par  : Séminaire PLU6058, webinaire Bloguer sa recherche, atelier de partage de pratique
 
-* Promoted through / Diffusé via : GitHub, [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca), FBpro
+* Promoted through / Diffusé via : GitHub, [ACRL Sandbox](http://sandbox.acrl.org/users/pascalou), [Project CORA](https://www.projectcora.org/users/pascalmartinolliumontrealca), Blogue [Jeu de rôle sur table](https://jdr.hypotheses.org/1052), FBpro
 
 * Commments are welcomed at / Commentaires bienvenus : pascal.martinolli [à] umontreal.ca
 
